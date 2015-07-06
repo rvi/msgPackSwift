@@ -1,0 +1,10 @@
+PODS:
+  - msgpack (0.1.5)
+
+DEPENDENCIES:
+  - msgpack
+
+SPEC CHECKSUMS:
+  msgpack: cba97dfa2446432f613588bd23cabc0ae0f6d688
+
+COCOAPODS: 0.37.2
