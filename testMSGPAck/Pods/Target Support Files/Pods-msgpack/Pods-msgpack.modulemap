@@ -1,6 +1,0 @@
-framework module msgpack {
-  umbrella header "Pods-msgpack-umbrella.h"
-
-  export *
-  module * { export * }
-}
